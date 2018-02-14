@@ -18,7 +18,7 @@ def vcr_test_suite():
 
 
 setup(
-    name='vcr',
+    name='socketrecorder',
     version='0.0.9',
     description='VCR - decorator for capturing and simulating network ' +
                 'communication',
